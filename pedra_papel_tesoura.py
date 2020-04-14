@@ -1,6 +1,5 @@
 #Importo a biblioteca para escolha aleatória
 from random import randint
-from time import 
 
 #Crio a lista com os nomes dos itens que o computador pode escolher
 itens = ('Pedra', 'Papel', 'Tesoura')
@@ -44,6 +43,7 @@ if computador == 1:
     elif escolhajogador == 2:
         print('Você Ganhou!')
     else: print('Jogada inválida!')
+
 if computador == 2:
     if escolhajogador == 0:
         print('Você Ganhou!')
