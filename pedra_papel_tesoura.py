@@ -1,5 +1,6 @@
 #Importo a biblioteca para escolha aleatória
 from random import randint
+from time import 
 
 #Crio a lista com os nomes dos itens que o computador pode escolher
 itens = ('Pedra', 'Papel', 'Tesoura')
@@ -8,7 +9,9 @@ itens = ('Pedra', 'Papel', 'Tesoura')
 computador = randint(0,2)
 
 #Digo ao jogador quais as suas opções:
-print('''Selecione a sua opção: 
+print('''****Bem-vindo ao jogo do pedra, papel e tesoura!****
+Selecione a sua opção: 
+
 	[0] para Pedra
 	[1] para Papel
 	[2] para Tesoura
