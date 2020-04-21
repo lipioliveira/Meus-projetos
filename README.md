@@ -1,2 +1,2 @@
 # Meus-projetos
-pedra, papel e tesoura em python
+Meus projetos em HTML e Python
