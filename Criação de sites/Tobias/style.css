@@ -1,8 +1,15 @@
-.cabecalho{
-    text-align: center;
-    background-color:#333;
-    color: white;
-    padding: 8px 12px;
+.cabecalho {
+  text-align: center;
+  background-color:#333;
+  color: white;
+  padding: 8px 12px;
+}
+
+#perfiltobias{
+   width:100px;
+  height:80px;
+  float: left;
+  border:1px solid #ffffff;
 }
 
 .resumoprincipal {
